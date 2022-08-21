@@ -21,7 +21,7 @@ const NotFound = () => {
             </Head>
             <div className="not-found">
                 <h1>Ooooooooops...</h1>
-                <h2>Page non trouvé -:)</h2>
+                <h2>Page non trouvé -:</h2>
                 <p>Retourner à la page d'accueil <Link href="/"><a>Accueil</a></Link></p>
             </div>
         </>
